@@ -10,6 +10,6 @@ let i = a.sorted(by: <)
 print(i)
 
 
-var s = [69,10,56,04,19,84]
+/*var s = [69,10,56,04,19,84]
 let legal = s.sorted(by: >)
-print(legal)
+print(legal)*/
